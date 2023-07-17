@@ -20,7 +20,7 @@
 - Тестирование API
 - Регресс
 
->*Отчёт по тестированию доступен по [ссылке](https://drive.google.com/file/d/1YnAsZFk2KZTG594Xr-eAI9Pz-ORaNBZI/view?usp=sharing)
+>*Отчёт по тестированию доступен по [ссылке](https://drive.google.com/file/d/1Fyw0OPaqfxjAMxQ38lEQCBSbj5mbCsrU/view?usp=sharing)
 
 
 ## 🌏 Контактная информация
