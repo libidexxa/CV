@@ -1,5 +1,5 @@
 
-## Привет! Меня зовут Аня и я начинающий тестировщик. Это страница с моим резюме <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## Привет! Меня зовут Аня и я начинающий тестировщик. <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 <h2 align="left">:hammer_and_wrench: Навыки и технологии:</h2>
 
