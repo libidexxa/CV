@@ -25,7 +25,7 @@
 
 ## 🌏 Контактная информация
 
-- email: ottellolohh@gmail.com
+- email: annaselivanovaru@gmail.com
 - LinkedIn: ``Скоро здесь будет ссылка``
 
 
